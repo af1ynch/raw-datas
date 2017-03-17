@@ -3,8 +3,10 @@
 ### 贡献
 4万条b站视频信息以及对应的视频弹幕文件，视频信息的存储格式为json，信息编码为：utf-8，视频弹幕按照视频所属的typename分类，存储格式为plaintext，文本编码为：utf-8
 ### 视频信息格式如下：
+
 '''json
-{
+[
+  {
     "allow_feed" : 0,
     "spid" : null,
     "partname" : "",
@@ -31,8 +33,8 @@
     "author" : "AR-Gent",
     "offsite" : "http://share.acg.tv/flash.swf?aid=12&page=1",
     "typename" : "实况解说",
-    "credit" : "145",
-    ......
-}
+    "credit" : "145"
+  }
+]
 '''
 
