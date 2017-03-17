@@ -5,7 +5,7 @@
 b站视频信息存储格式为json,编码方式为:utf-8   
 视频弹幕信息存储格式为plaintext,编码方式为:utf-8
 ### 推文数据下载链接
-![推文数据](https://pan.baidu.com/s/1nuD2XYD )密码：4lb3
+![推文数据](https://pan.baidu.com/s/1nuD2XYD)密码：4lb3
 ### 未来
    
 欢迎大家commit自己的文本数据，以供交流学习使用。
